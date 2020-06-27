@@ -32,8 +32,7 @@ Think of unsupervised learning as a smart kid that learns without any guidance. 
 
 Type Of Problems In Machine Learning
 
-Type of Problems Solved Using Machine Learning – Introduction To Machine Learning – Edureka
-Consider the above figure, there are three main types of problems that can be solved in Machine Learning:
+Type of Problems Solved Using Machine Learning – Introduction To Machine Learning – there are three main types of problems that can be solved in Machine Learning:
 Regression: In this type of problem the output is a continuous quantity. So, for example, if you want to predict the speed of a car given the distance, it is a Regression problem. Regression problems can be solved by using Supervised Learning algorithms like Linear Regression.
 Classification: In this type, the output is a categorical value. Classifying emails into two classes, spam and non-spam is a classification problem that can be solved by using Supervised Learning classification algorithms such as Support Vector Machines, Naive Bayes, Logistic Regression, K Nearest Neighbor, etc.
 Clustering: This type of problem involves assigning the input into two or more clusters based on feature similarity. For example, clustering viewers into similar groups based on their interests, age, geography, etc can be done by using Unsupervised Learning algorithms like K-Means Clustering.
