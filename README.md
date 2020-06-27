@@ -1,4 +1,4 @@
-# Machine-learning-basics
+# Machine-learning
 Introduction To Machine Learning:
 Undoubtedly, Machine Learning is the most in-demand technology in today’s market. Its applications range from self-driving cars to predicting deadly diseases such as ALS. The high demand for Machine Learning skills is the motivation behind this blog. In this blog on Introduction To Machine Learning, you will understand all the basic concepts of Machine Learning and a Practical Implementation of Machine Learning by using the R language
 Need For Machine Learning
